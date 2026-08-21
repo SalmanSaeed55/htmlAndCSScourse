@@ -1,0 +1,31 @@
+h1 {
+  color: blue;
+}
+
+h3 {
+  color: red;
+}
+
+p {
+  color: green;
+}
+
+h1,
+h3 {
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+}
+
+#heading {
+  color: purple;
+}
+
+.subheading {
+  color: orange;
+  background: black;
+}
+
+.new {
+  color: yellow;
+  background: black;
+}
