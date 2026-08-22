@@ -10,18 +10,20 @@ The goal of this repository is to build a strong foundation in modern web layout
 
 ## Key Concepts Covered
 
-* Semantic HTML5 markup and accessibility basics
-* CSS box model, positioning, and specificity
-* Flexbox and CSS Grid layout engines
-* Responsive web design and media queries
-* Custom CSS variables and styling patterns
+- Semantic HTML5 markup and accessibility basics
+- CSS box model, positioning, and specificity
+- Flexbox and CSS Grid layout engines
+- Responsive web design and media queries
+- Custom CSS variables and styling patterns
 
 ## Repository Structure
 
 ```text
 .
-├── 01-html-basics/        # Page structure, forms, and semantic tags
-├── 02-css-styling/        # Selectors, typography, and box model
-├── 03-flexbox-grid/       # Layout exercises and grid systems
-├── 04-mini-projects/      # UI components and practice landing pages
-└── README.md              # Repository documentation
+├── 01_Intro_to_HTML/        # Page structure, forms, and semantic tags
+├── 02_Intro_to_CSS/        # Intro to CSS, using IDs and Classes as well as basic syntax
+├── 03-CSS_Colors/       # Basics, RGB, RGBA and Hex
+├── 04_Units/      # Looking at different units that are used in CSS
+├── 05_Typography      # Looking at type and font
+└── README.md              # Repository documentation and project structure
+```
